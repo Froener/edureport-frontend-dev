@@ -1,13 +1,10 @@
 {
   "name": "edureport",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "dev": "react-scripts start"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
